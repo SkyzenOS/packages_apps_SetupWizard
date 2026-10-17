@@ -30,6 +30,8 @@ import org.lineageos.setupwizard.util.SetupWizardUtils;
 
 public class NavigationSettingsActivity extends BaseSetupWizardActivity {
 
+    private static final String NAVIGATION_BAR_HINT = "navigation_bar_hint";
+
     private SetupWizardApp mSetupWizardApp;
 
     private String mSelection = NAV_BAR_MODE_GESTURAL_OVERLAY;
@@ -139,7 +141,7 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
         mSetupWizardApp.getSettingsBundle().putString(NAVIGATION_OPTION_KEY, mSelection);
         boolean hideHint = mHideGesturalHint.isChecked();
         Settings.Secure.putIntForUser(getContentResolver(),
-                Settings.Secure.NAVIGATION_BAR_HINT, hideHint ? 0 : 1,
+                NAVIGATION_BAR_HINT, hideHint ? 0 : 1,
                 UserHandle.USER_CURRENT);
         super.onNextPressed();
     }
