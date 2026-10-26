@@ -25,9 +25,6 @@
     <string name="date_time_summary">Setați fusul orar și reglați data și ora curentă, dacă este necesar</string>
     <string name="setup_current_date">Data curentă</string>
     <string name="setup_current_time">Ora curentă</string>
-    <string name="intro_restore_title">Restabiliți aplicațiile și datele</string>
-    <string name="intro_restore_subtitle">Dacă aveţi o copie de rezervă a Seedvault de la <xliff:g id="name" example="SkyzenOS">%s</xliff:g> sau orice alt OS, o puteţi restaura aici.</string>
-    <string name="intro_restore_button">Restaurează din backup</string>
     <string name="setup_location">Servicii de localizare</string>
     <string name="location_access_summary"><b>Permite aplicațiilor care au cerut permisiunea</b> să utilizeze informațiile despre locația dvs. Aceasta poate include locația curentă și locațiile precedente.</string>
     <string name="location_agps_access_summary">Când locația este activată, <b>descarcă date de asistență prin satelit de pe internet</b>, ceea ce poate îmbunătăți considerabil performanța de pornire a GPS-ului.</string>

@@ -22,8 +22,6 @@
     <string name="date_time_summary">Cunfigura sa zona orària e sa data e s\'ora atuales si serbit</string>
     <string name="setup_current_date">Data atuale</string>
     <string name="setup_current_time">Ora atuale</string>
-    <string name="intro_restore_title">Recùpera aplicatziones e datos</string>
-    <string name="intro_restore_subtitle">Si tenes una còpia de seguresa cun Seedvault dae <xliff:g id="name" example="SkyzenOS">%s</xliff:g> o cale si siat àteru sistema operativu, dda podes recuperare inoghe.</string>
     <string name="setup_location">Servìtzios de positzione</string>
     <string name="update_recovery_title">Atualizatzione de recùperu de Lineage</string>
     <string name="update_recovery_full_description"><xliff:g id="recovery_update_description">%1$s</xliff:g>\n<xliff:g id="recovery_update_warning">%2$s</xliff:g></string>

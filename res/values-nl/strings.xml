@@ -25,9 +25,6 @@
     <string name="date_time_summary">Selecteer uw tijdzone en pas indien nodig de huidige datum en tijd aan.</string>
     <string name="setup_current_date">Huidige datum</string>
     <string name="setup_current_time">Huidige tijd</string>
-    <string name="intro_restore_title">Herstel apps en gegevens</string>
-    <string name="intro_restore_subtitle">Als u een Seedvault backup heeft van <xliff:g id="name" example="SkyzenOS">%s</xliff:g> of een ander besturingssysteem, kunt u deze hier herstellen.</string>
-    <string name="intro_restore_button">Backup terugzetten</string>
     <string name="setup_location">Locatieservices</string>
     <string name="location_access_summary"><b>Apps toestaan die uw toestemming hebben gevraagd</b> om informatie over uw locatie te gebruiken. Dit kan uw huidige locatie en voorgaande locaties omvatten.</string>
     <string name="location_agps_access_summary">Wanneer locatie is ingeschakeld, <b>download satellietondersteuningsgegevens van internet</b>, wat de opstartprestatie van GPS aanzienlijk kan verbeteren.</string>

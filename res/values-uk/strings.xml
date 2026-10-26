@@ -23,7 +23,6 @@
     <string name="date_time_summary">Оберіть часовий пояс і виправте за потреби дату й час</string>
     <string name="setup_current_date">Поточна дата</string>
     <string name="setup_current_time">Поточний час</string>
-    <string name="intro_restore_title">Відновіть застосунки й дані</string>
     <string name="setup_location">Служби позиціювання</string>
     <string name="location_access_summary"><b>Дозволити програмам, котрі запитали вашого дозволу</b> використовувати інформацію, щодо вашого місцезнаходження. Це може бути як ваше поточне, так і минулі розташування.</string>
     <string name="update_recovery_title">Оновлювати режим відновлення Lineage</string>

@@ -24,8 +24,6 @@
     <string name="date_time_summary">Si ye preciso, afita\'l to fusu horariu y configura la data y la hora actuales</string>
     <string name="setup_current_date">Data actual</string>
     <string name="setup_current_time">Hora actual</string>
-    <string name="intro_restore_title">Restauración d\'aplicaciones y datos</string>
-    <string name="intro_restore_subtitle">Si tienes una copia de seguranza de Seedvault de <xliff:g id="name" example="SkyzenOS">%s</xliff:g> o d\'otru SO, pues restaurala equí.</string>
     <string name="setup_location">Servicios de llocalización</string>
     <string name="location_access_summary"><b>Permitir que les aplicaciones que pidieren el to permisu</b> usen la información de la llocalización. Esta opción pue incluyir la llocalización actual y les anteriores.</string>
     <string name="location_agps_access_summary">Al activar la llocalización, <b>baxa los datos d\'asistencia satelitales d\'internet</b> que puen ameyorar muncho\'l rindimientu inicial del GPS</string>

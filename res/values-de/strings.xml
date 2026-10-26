@@ -25,9 +25,6 @@
     <string name="date_time_summary">Zeitzone setzen und ggf. aktuelles Datum und Uhrzeit anpassen</string>
     <string name="setup_current_date">Aktuelles Datum</string>
     <string name="setup_current_time">Aktuelle Zeit</string>
-    <string name="intro_restore_title">Apps und Daten wiederherstellen</string>
-    <string name="intro_restore_subtitle">Wenn du eine Seedvault-Sicherung von <xliff:g id="name" example="SkyzenOS">%s</xliff:g> oder einem anderen Betriebssystem hast, kannst du sie hier wiederherstellen.</string>
-    <string name="intro_restore_button">Aus Backup wiederherstellen</string>
     <string name="setup_location">Standortdienste</string>
     <string name="location_access_summary"><b>Erlaubt Apps, die um deine Erlaubnis gebeten haben, </b>deine Standortinformationen zu verwenden. Dies können Informationen zu deinem aktuellen Standort und zu vergangenen Standorten sein.</string>
     <string name="location_agps_access_summary">Wenn die Standortbestimmung eingeschaltet ist, kannst du <b>Satellitenhilfsdaten aus dem Internet herunterladen</b>, wodurch der Startvorgang von GPS deutlich beschleunigt werden kann.</string>

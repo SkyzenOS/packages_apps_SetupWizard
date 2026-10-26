@@ -25,9 +25,6 @@
     <string name="date_time_summary">Válasszon időzónát és állítsa be az aktuális dátumot és időt, ha szükséges</string>
     <string name="setup_current_date">Aktuális dátum</string>
     <string name="setup_current_time">Aktuális idő</string>
-    <string name="intro_restore_title">Alkalmazások és adatok visszaállítása</string>
-    <string name="intro_restore_subtitle">Amennyiben van <xliff:g id="name" example="SkyzenOS">%s</xliff:g>-mentése a Seedvaulttal, itt helyreállíthatja azt.</string>
-    <string name="intro_restore_button">Visszaállítás biztonsági mentésből</string>
     <string name="setup_location">Helymeghatározó szolgáltatások</string>
     <string name="location_access_summary"><b>Lehetővé teszi az alkalmazás számára, amely korábban engedélyt kért,</b> a helymeghatározási információ használatára. Beleértve a jelenlegi és a korábbi helyeket.</string>
     <string name="location_agps_access_summary">Ha a helymeghatározás be van kapcsolva, <b>töltse le a műholdsegítő adatokat az internetről</b>, ez nagy mértékben javíthatja a GPS indítási teljesítményét.</string>

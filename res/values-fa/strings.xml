@@ -25,9 +25,6 @@
     <string name="date_time_summary">منطقه‌ی زمانی و تاریخ فعلی را در صورت نیاز تنظیم کنید</string>
     <string name="setup_current_date">تاریخ کنونی</string>
     <string name="setup_current_time">زمان کنونی</string>
-    <string name="intro_restore_title">برنامه ها و داده ها را بازیابی کنید</string>
-    <string name="intro_restore_subtitle">اگر نسخه پشتیبان Seedvault از <xliff:g id="name" example="SkyzenOS">%s</xliff:g> یا هر سیستم‌عامل دیگری دارید، می‌توانید آن را در اینجا بازیابی کنید.</string>
-    <string name="intro_restore_button">بازیابی از پشتیبان‌گیری</string>
     <string name="setup_location">خدمات مکان</string>
     <string name="location_access_summary"><b>به برنامه‌هایی که درخواست مکان می‌کنند اجازه دهید</b> از اطلاعات مکان شما استفاده کنند. ممکن است این استفاده شامل مکان فعلی و قبلی شما باشد.</string>
     <string name="location_agps_access_summary">وقتی مکان روشن است، <b>داده های کمک ماهواره را از اینترنت بارگیری کنید</b> که می تواند عملکرد راه‌اندازی GPS را تا حد زیادی بهبود بخشد.</string>

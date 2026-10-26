@@ -25,9 +25,6 @@
     <string name="date_time_summary">Je-li třeba, nastavte časové pásmo a upravte aktuální datum a čas</string>
     <string name="setup_current_date">Aktuální datum</string>
     <string name="setup_current_time">Aktuální čas</string>
-    <string name="intro_restore_title">Obnovit aplikace a\u00a0data</string>
-    <string name="intro_restore_subtitle">Pokud máte zálohu Seedvault z <xliff:g id="name" example="SkyzenOS">%s</xliff:g> nebo jiného OS, můžete ji zde obnovit.</string>
-    <string name="intro_restore_button">Obnovit ze zálohy</string>
     <string name="setup_location">Služby určení polohy</string>
     <string name="location_access_summary"><b>Povolí aplikacím, které žádaly oprávnění</b> použít vaše informace o poloze. To může zahrnovat vaši aktuální, ale i minulé polohy.</string>
     <string name="location_agps_access_summary">Když je poloha zapnutá, <b>stahujte data satelitní asistence z internetu</b>, což může výrazně zlepšit výkon spuštění systému GPS.</string>

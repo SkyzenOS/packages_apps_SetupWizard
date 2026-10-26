@@ -25,9 +25,6 @@
     <string name="date_time_summary">தேவைப்பட்டால் உமது நேர மண்டலத்தை அமைத்து, நடப்பு நாளையும், நேரத்தையும் சரிசெய்க</string>
     <string name="setup_current_date">நடப்பு நாள்</string>
     <string name="setup_current_time">நடப்பு நேரம்</string>
-    <string name="intro_restore_title">செயலிகளையும், தரவையும் மீட்டெடுக்க</string>
-    <string name="intro_restore_subtitle">உம்மிடம் <xliff:g id="name" example="SkyzenOS">%s</xliff:g> அல்லது வேறு ஏதேனும் OS இலிருந்து Seedvault காப்புப்பிரதி இருந்தால், அதை இங்கே மீட்டெடுக்கலாம்.</string>
-    <string name="intro_restore_button">காப்புப்பிரதியிலிருந்து மீட்டமைக்க</string>
     <string name="setup_location">இருப்பிடப் பணிவிடைகள்</string>
     <string name="location_access_summary">உமது இருப்பிடத் தகவலைப் பயன்படுத்த, <b>உமது அனுமதி கேட்ட பயன்பாடுகளை அனுமதிக்கவும்.</b> இதில் உமது தற்போதைய இருப்பிடமும் கடந்த கால இருப்பிடங்களும் அடங்கலாம்.</string>
     <string name="location_agps_access_summary">இருப்பிடம் இயக்கப்பட்டிருக்கும்போது, ​​<b>இணையத்திலிருந்து செயற்கைக்கோள் உதவித் தரவைப் பதிவிறக்கவும்</b>, இது GPS தொடக்க செயற்திறனை பெரிதும் மேம்படுத்தும்.</string>

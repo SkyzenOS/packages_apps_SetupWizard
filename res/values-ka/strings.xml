@@ -25,9 +25,6 @@
     <string name="date_time_summary">სასაათე სარტყლის დაყენება, დროისა და თარიღის საჭიროებისამებრ გასწორება</string>
     <string name="setup_current_date">მიმდინარე თარიღი</string>
     <string name="setup_current_time">მიმდინარე დრო</string>
-    <string name="intro_restore_title">აპებისა და მონაცემების აღდგენა</string>
-    <string name="intro_restore_subtitle">თუ გაქვთ Seedvault-მარქაფით შენახული <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ან ნებისმიერი სხვა საოპერაციო სისტემა, აქედან შეძლებთ აღადგინოთ.</string>
-    <string name="intro_restore_button">აღდგენა მარქაფიდან</string>
     <string name="setup_location">მდებარეობის მომსახურებები</string>
     <string name="location_access_summary"><b>ნების დართვა იმ აპებისთვის, რომელთაც ითხოვეს</b> თქვენი მდებარეობის მონაცემთა გამოყენების უფლება. შესაძლოა მოიცავდეს როგორც მიმდინარე, ასევე წარსული მდებარეობის მონაცემებსაც.</string>
     <string name="location_agps_access_summary">მდებარეობა როცა ჩართულია, <b>ინტერნეტიდან ჩამოიტვირთება დამხმარე თანამგზავრული მონაცემები</b>, რომლებიც მეტად აუმჯობესებს შედეგიანობას GPS-ის ამუშავებისთანავე.</string>

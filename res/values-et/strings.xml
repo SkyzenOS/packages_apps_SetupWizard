@@ -19,8 +19,6 @@
     <string name="date_time_summary">Määra ajavöönd ning kohandada vajadusel tänast kuupäeva ja kellaaega</string>
     <string name="setup_current_date">Tänane kuupäev</string>
     <string name="setup_current_time">Praegune kellaaeg</string>
-    <string name="intro_restore_title">Taasta rakendused ja andmed</string>
-    <string name="intro_restore_button">Taasta varundusest</string>
     <string name="setup_location">Asukohateenused</string>
     <string name="location_access_summary"><b>Luba rakendustel, mis on küsinud Teie nõusolekut</b> kasutada Teie asukoha informatsiooni. See võib tähendada nii Teie praegust kui ka eelnevaid asukohti.</string>
     <string name="update_recovery_title">Uuenda Lineage Recoveryt</string>

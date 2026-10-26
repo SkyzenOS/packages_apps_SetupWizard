@@ -25,9 +25,6 @@
     <string name="date_time_summary">ئەگەر لازىم بولسا، ۋاقىت رايونى. چىسلا ۋە ۋاقىتنى تەڭشەڭ</string>
     <string name="setup_current_date">نۆۋەتتىكى چېسلا</string>
     <string name="setup_current_time">نۆۋەتتىكى ۋاقىت</string>
-    <string name="intro_restore_title">ئەپ ۋە سانلىق مەلۇماتنى ئەسلىگە قايتۇر</string>
-    <string name="intro_restore_subtitle">ئەگەر سىزدە <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ياكى باشقا مەشغۇلات سىستېمىسىنىڭ Seedvault زاپىسى بولسا، بۇ جايدا ئۇنى ئەسلىگە قايتۇرالايسىز.</string>
-    <string name="intro_restore_button">زاپاستىن ئەسلىگە كەلتۈر</string>
     <string name="setup_location">ئورۇن مۇلازىمەتلىرى</string>
     <string name="location_access_summary"><b>سىز ھوقۇق بەرگەن ئەپنىڭ</b> سىزنىڭ ئورۇن ئۇچۇرىڭىزنى ئىشلىتىشكە يول قويۇش، بۇ بەلكىم سىزنىڭ ھازىرقى ۋە ئۆتمۈشتىكى ئۇچۇرىڭىزنى ئۆز ئىچىگە ئېلىشى مۇمكىن.</string>
     <string name="location_agps_access_summary">ئورۇن ئوچۇق بولغاندا، <b>ئىنتېرنېتتىن سۈنئىي ھەمراھ قوشۇمچە سانلىق مەلۇماتىنى چۈشۈرىدۇ</b>، بۇ GPS نىڭ قوزغىلىش ئۈنۈمىنى زور دەرىجىدە ئۆستۈرىدۇ.</string>

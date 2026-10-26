@@ -24,8 +24,6 @@
     <string name="date_time_summary">Angiv din tidszone og justér aktuel dato og tid, hvis det behøves</string>
     <string name="setup_current_date">Aktuelle dato</string>
     <string name="setup_current_time">Aktuelle tidspunkt</string>
-    <string name="intro_restore_title">Gendan apps og data</string>
-    <string name="intro_restore_button">Gendan fra backup</string>
     <string name="setup_location">Lokalitetstjenester</string>
     <string name="location_access_summary"><b>Tillad apps, der har bedt om din tilladelse</b> at bruge din lokalitetsinformation. Dette kan inkludere din aktuelle lokalitet og tidligere lokaliteter.</string>
     <string name="location_agps_access_summary">Når lokation er tændt, <b>download satellit hjælpedata fra internettet</b>, som kan hjælpe meget med GPS opstartsfunktion</string>

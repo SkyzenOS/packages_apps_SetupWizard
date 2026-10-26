@@ -41,12 +41,6 @@
     <WizardAction
         wizard:uri="intent:#Intent;action=org.skyzenos.setupwizard.DATETIME;end"
         id="datetime">
-        <result wizard:action="restore" />
-    </WizardAction>
-
-    <WizardAction
-        wizard:uri="intent:#Intent;action=org.skyzenos.setupwizard.RESTORE_BACKUP;end"
-        id="restore">
         <result wizard:action="location_settings" />
     </WizardAction>
 

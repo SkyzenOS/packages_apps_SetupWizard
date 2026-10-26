@@ -25,9 +25,6 @@
     <string name="date_time_summary">Imposta il fuso orario e se necessario regola data e ora corrente</string>
     <string name="setup_current_date">Data corrente</string>
     <string name="setup_current_time">Ora corrente</string>
-    <string name="intro_restore_title">Ripristina app e dati</string>
-    <string name="intro_restore_subtitle">Se hai un backup Seedvault di <xliff:g id="name" example="SkyzenOS">%s</xliff:g> o di qualsiasi altro sistema operativo, puoi ripristinarlo qui.</string>
-    <string name="intro_restore_button">Ripristina dal backup</string>
     <string name="setup_location">Localizzazione</string>
     <string name="location_access_summary"><b>Consenti alle applicazioni che hanno chiesto la tua autorizzazione</b> di utilizzare informazioni sulla tua posizione. Ciò può includere la tua posizione attuale e quelle precedenti.</string>
     <string name="location_agps_access_summary">Quando la geolocalizzazione è attiva, <b>scarica da internet i dati di assistenza satellitare</b>, che possono migliorare notevolmente le prestazioni di avvio del GPS.</string>

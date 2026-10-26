@@ -23,8 +23,6 @@
     <string name="date_time_summary">Configure a súa zona horaria e axuste a hora e data se é preciso</string>
     <string name="setup_current_date">Data actual</string>
     <string name="setup_current_time">Hora actual</string>
-    <string name="intro_restore_title">Restaurar aplicacións e datos</string>
-    <string name="intro_restore_button">Restaurar dende a copia de seguranza</string>
     <string name="setup_location">Servizos de localización</string>
     <string name="location_access_summary"><b>Permite que as aplicacións se teñen o teu permiso</b> utilicen a información sobre a túa localización, o que pode incluír á presente e ás pasadas.</string>
     <string name="update_recovery_title">Actualizar Recuperador de Lineage</string>

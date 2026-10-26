@@ -22,8 +22,6 @@
     <string name="date_time_summary">Postavite vremensku zonu i ako je potrebno prilagoditi trenutni datum i vrijeme</string>
     <string name="setup_current_date">Današnji datum</string>
     <string name="setup_current_time">Trenutno vrijeme</string>
-    <string name="intro_restore_title">Vrati aplikacije i podatke</string>
-    <string name="intro_restore_button">Vrati podatke iz sigurnosne kopije</string>
     <string name="setup_location">Usluge lokacije</string>
     <string name="location_access_summary"><b>Dopusti aplikacijama koje traže tvoju dozvolu</b> da koriste informacije o tvojoj lokaciji. Ovo može uključiti tvoju sadašnju i prošle lokacije.</string>
     <string name="update_recovery_title">Ažuriraj Lineage Recovery</string>

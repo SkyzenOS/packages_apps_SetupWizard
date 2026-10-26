@@ -25,9 +25,6 @@
     <string name="date_time_summary">Estableix el teu fus horari i ajusta la data i hora actual si és necessari</string>
     <string name="setup_current_date">Data actual</string>
     <string name="setup_current_time">Hora actual</string>
-    <string name="intro_restore_title">Restauració d\'aplicacions i dades</string>
-    <string name="intro_restore_subtitle">Si teniu una còpia de seguretat del Seedvault de <xliff:g id="name" example="SkyzenOS">%s</xliff:g> o qualsevol altre sistema operatiu, podeu recuperar-la aquí.</string>
-    <string name="intro_restore_button">Restaura des de la còpia de seguretat</string>
     <string name="setup_location">Serveis d\'ubicació</string>
     <string name="location_access_summary"><b>Permet a les aplicacions que han demanat el teu permís</b> utilitzar la teva informació d\'ubicació. Això pot incloure la teva ubicació i ubicacions anteriors.</string>
     <string name="location_agps_access_summary">Quan la ubicació està activada, <b>baixa dades d\'assistència satelital d\'Internet</b>, cosa que pot millorar en gran mesura el rendiment inicial del GPS.</string>

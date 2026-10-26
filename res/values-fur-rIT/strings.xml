@@ -25,9 +25,6 @@
     <string name="date_time_summary">Configure il fûs orari e se al covente juste la date e la ore</string>
     <string name="setup_current_date">Date atuâl</string>
     <string name="setup_current_time">Ore atuâl</string>
-    <string name="intro_restore_title">Ripristine aplicazions e dâts</string>
-    <string name="intro_restore_subtitle">Se tu âs un backup Seedvault di <xliff:g id="name" example="SkyzenOS">%s</xliff:g> o di un altri SO, tu puedis ripristinâlu achì.</string>
-    <string name="intro_restore_button">Ripristine dal backup</string>
     <string name="setup_location">Servizis di localizazion</string>
     <string name="location_access_summary"><b>Permet aes aplicazions che a àn domandât la tô autorizazion</b> di doprâ informazions su la tô posizion. Chest al pues includi la tô posizion atuâl e chês di prime.</string>
     <string name="location_agps_access_summary">Cuant che la gjeolocalizazion e je ative, <b>discjame di internet i dâts di assistence satelitâr</b>, che a puedin miorâ une vore lis prestazions di inviament dal GPS.</string>

@@ -25,9 +25,6 @@
     <string name="date_time_summary">Définir votre fuseau horaire et régler la date et l\'heure si nécessaire</string>
     <string name="setup_current_date">Date</string>
     <string name="setup_current_time">Heure</string>
-    <string name="intro_restore_title">Restaurer les applications et les données</string>
-    <string name="intro_restore_subtitle">Si vous avez une sauvegarde Seedvault depuis <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ou tout autre OS, vous pouvez la restaurer ici.</string>
-    <string name="intro_restore_button">Restaurer depuis une sauvegarde</string>
     <string name="setup_location">Services de localisation</string>
     <string name="location_access_summary"><b>Permettre aux applications ayant obtenu votre autorisation</b> d\'utiliser vos informations de localisation. Cela peut inclure votre position actuelle et les dernières positions.</string>
     <string name="location_agps_access_summary">Lorsque la localisation est activée, <b>téléchargez les données d\'assistance par satellite depuis internet</b>, ce qui peut grandement améliorer les performances de démarrage du GPS.</string>

@@ -25,9 +25,6 @@
     <string name="date_time_summary">Defina o fuso horário e ajuste a hora e a data atuais, se necessário</string>
     <string name="setup_current_date">Data atual</string>
     <string name="setup_current_time">Hora atual</string>
-    <string name="intro_restore_title">Restaurar aplicações e dados</string>
-    <string name="intro_restore_subtitle">Se tiver uma cópia de segurança Seedvault da <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ou de qualquer outro SO, pode restaurá-la aqui.</string>
-    <string name="intro_restore_button">Restaurar a partir de cópia de segurança</string>
     <string name="setup_location">Serviços de localização</string>
     <string name="location_access_summary"><b>Permitir que as aplicações que pediram a sua permissão</b> usem as suas informações de localização. Isso pode incluir a sua localização atual bem como localizações anteriores.</string>
     <string name="location_agps_access_summary">Quando a localização estiver ativada, &lt;b&gt;descarregar da internet dados de assistência por satélite&lt;b&gt;, o que pode melhorar bastante o desempenho de arranque do GPS.</string>

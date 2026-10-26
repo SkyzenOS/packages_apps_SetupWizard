@@ -25,9 +25,6 @@
     <string name="date_time_summary">Đặt múi giờ của bạn và điều chỉnh ngày và thời gian hiện tại nếu cần thiết</string>
     <string name="setup_current_date">Ngày hiện tại</string>
     <string name="setup_current_time">Thời gian hiện tại</string>
-    <string name="intro_restore_title">Khôi phục Sao lưu</string>
-    <string name="intro_restore_subtitle">Nếu bạn có bản sao lưu Seedvault từ <xliff:g id="name" example="SkyzenOS">%s</xliff:g> hoặc bất kỳ hệ điều hành nào khác, bạn có thể khôi phục nó tại đây.</string>
-    <string name="intro_restore_button">Khôi phục từ bản sao lưu</string>
     <string name="setup_location">Dịch vụ vị trí</string>
     <string name="location_access_summary"><b>Cho phép những ứng dụng đã hỏi quyền</b> sử dụng thông tin vị trí của bạn. Những thông tin này có thể bao gồm vị trí hiện tại và trước đó của bạn.</string>
     <string name="location_agps_access_summary">Khi vị trí được bật, hãy <b>tải xuống dữ liệu hỗ trợ vệ tinh từ internet</b>, dữ liệu này có thể cải thiện đáng kể hiệu suất khởi động GPS.</string>

@@ -24,8 +24,6 @@
     <string name="date_time_summary">Atur zona waktu dan sesuaikan tanggal dan waktu jika diperlukan</string>
     <string name="setup_current_date">Tanggal sekarang</string>
     <string name="setup_current_time">Waktu saat ini</string>
-    <string name="intro_restore_title">Pulihkan aplikasi dan data</string>
-    <string name="intro_restore_button">Pulihkan dari cadangan</string>
     <string name="setup_location">Layanan lokasi</string>
     <string name="location_access_summary"><b>Izinkan aplikasi yang telah meminta izin Anda</b> menggunakan informasi lokasi Anda. Ini mungkin termasuk lokasi Anda saat ini dan lokasi terakhir.</string>
     <string name="update_recovery_title">Perbarui Lineage Recovery</string>

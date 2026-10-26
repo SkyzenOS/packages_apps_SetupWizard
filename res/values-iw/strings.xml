@@ -25,9 +25,6 @@
     <string name="date_time_summary">הגדר את אזור הזמן שלך והתאם את התאריך ואת השעה הנוכחיים במידת הצורך</string>
     <string name="setup_current_date">התאריך הנוכחי</string>
     <string name="setup_current_time">השעה הנוכחית</string>
-    <string name="intro_restore_title">שחזור יישומים ונתונים</string>
-    <string name="intro_restore_subtitle">אם יש לך גיבוי של Seedvault מ-<xliff:g id="name" example="SkyzenOS">%s</xliff:g> או מכל מערכת הפעלה אחרת, ניתן לשחזר אותו כאן.</string>
-    <string name="intro_restore_button">שחזור מגיבוי</string>
     <string name="setup_location">שירותי מיקום</string>
     <string name="location_access_summary"><b>אפשר ליישומים שביקשו את רשותך</b> להשתמש במידע על מיקומך. הפעולה עשויה לכלול את מיקומך הנוכחי ומיקומים קודמים.</string>
     <string name="location_agps_access_summary">כאשר המיקום פועל, <b> הורדת נתוני סיוע לווייני מהאינטרנט </b>, שיכולים לשפר מאוד את ביצועי ההפעלה של ה- GPS.</string>

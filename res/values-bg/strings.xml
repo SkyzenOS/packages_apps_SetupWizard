@@ -25,9 +25,6 @@
     <string name="date_time_summary">Задайте часовата си зона и настройте текущата дата и час, ако е необходимо</string>
     <string name="setup_current_date">Днешна дата</string>
     <string name="setup_current_time">Актуално време</string>
-    <string name="intro_restore_title">Възстановяване на приложения и данни</string>
-    <string name="intro_restore_subtitle">Ако имате Seedvault резервно копие от <xliff:g id="name" example="SkyzenOS">%s</xliff:g> или друга ОС, можете да го възстановите тук.</string>
-    <string name="intro_restore_button">Възстановяване от архив</string>
     <string name="setup_location">Услуги за местоположение</string>
     <string name="location_access_summary"><b>Разреши приложения, които са поискали разрешение</b> за да използва информацията за вашето местоположение. Това може да включва текущото местоположение и последните места.</string>
     <string name="location_agps_access_summary">Когато местоположението е включено, <b>изтегли помощна сателитна информация от интернет</b>, за да повиши продуктивността на GPS при стартиране.</string>

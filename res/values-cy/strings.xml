@@ -25,8 +25,6 @@
     <string name="date_time_summary">Gosoda dy gylchfa amser ac addasu’r dyddiad ac amser os oes angen.</string>
     <string name="setup_current_date">Dyddiad heddiw</string>
     <string name="setup_current_time">Amser nawr</string>
-    <string name="intro_restore_title">Adfer apiau a data</string>
-    <string name="intro_restore_button">Adfer o gopi wrth gefn</string>
     <string name="setup_location">Gwasanaethau lleoliad</string>
     <string name="location_access_summary"><b>Caniatáu i apiau sydd wedi gofyn am dy ganiatâd</b> medru defnyddio gwybodaeth dy leoliad. Gall hyn gynnwys dy leoliad cyfredol a lleoliadau yn y gorffennol.</string>
     <string name="update_recovery_title">Diweddaru Modd Adfer Lineage </string>

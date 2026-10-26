@@ -25,9 +25,6 @@
     <string name="date_time_summary">Ορίστε τη ζώνη ώρας σας και προσαρμόστε την τρέχουσα ημερομηνία και ώρα εάν χρειάζεται</string>
     <string name="setup_current_date">Τρέχουσα ημερομηνία</string>
     <string name="setup_current_time">Τρέχουσα ώρα</string>
-    <string name="intro_restore_title">Επαναφορά εφαρμογών και δεδομένων</string>
-    <string name="intro_restore_subtitle">Εάν έχετε ένα αντίγραφο ασφαλείας Seedvault από το <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ή οποιοδήποτε άλλο λειτουργικό σύστημα, μπορείτε να το επαναφέρετε εδώ.</string>
-    <string name="intro_restore_button">Επαναφορά από αντίγραφο ασφαλείας</string>
     <string name="setup_location">Υπηρεσίες τοποθεσίας</string>
     <string name="location_access_summary"><b>Επιτρέπει σε εφαρμογές που έχουν ζητήσει την άδειά σας</b> να χρησιμοποιήσουν τις πληροφορίες τοποθεσίας σας. Αυτό μπορεί να περιλαμβάνει την τρέχουσα και τις προηγούμενες τοποθεσίες σας.</string>
     <string name="location_agps_access_summary">Όταν η τοποθεσία είναι ενεργοποιημένη, <b>λήψη δεδομένων δορυφορικής βοήθειας από το διαδίκτυο</b>, τα οποία μπορούν να βελτιώσουν σημαντικά την απόδοση εκκίνησης GPS.</string>

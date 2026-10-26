@@ -25,9 +25,6 @@
     <string name="date_time_summary">Vel tidssone og still inn dato og tid om det trengst</string>
     <string name="setup_current_date">Dato</string>
     <string name="setup_current_time">Klokkeslett</string>
-    <string name="intro_restore_title">Gjenopprett appar og data</string>
-    <string name="intro_restore_subtitle">Om du har ein tryggingskopi i Seedvault frå <xliff:g id="name" example="SkyzenOS">%s</xliff:g> eller eit anna operativsystem, kan du gjenoppretta han her.</string>
-    <string name="intro_restore_button">Gjenopprett frå tryggingskopi</string>
     <string name="setup_location">Posisjonstenester</string>
     <string name="location_access_summary"><b>Gjev appar du har gjeve løyve</b> tilgang til posisjon. Dette kan gjelda noverande og tidlegare stadar.</string>
     <string name="location_agps_access_summary">Når posisjonstenester er på, kan du <b>lasta ned hjelpedata for satellittar frå internett</b>. Dette kan gjera GPS-oppstarten mykje raskare.</string>

@@ -25,9 +25,6 @@
     <string name="date_time_summary">タイムゾーンを設定して、必要であれば現在の日付と時刻を調整してください</string>
     <string name="setup_current_date">現在の日付</string>
     <string name="setup_current_time">現在の時刻</string>
-    <string name="intro_restore_title">アプリとデータを復元</string>
-    <string name="intro_restore_subtitle"><xliff:g id="name" example="SkyzenOS">%s</xliff:g> または他の OS の Seedvault バックアップがある場合は、ここで復元できます。</string>
-    <string name="intro_restore_button">バックアップから復元</string>
     <string name="setup_location">位置情報サービス</string>
     <string name="location_access_summary">位置情報を使用する<b>権限を求めてきたアプリを許可します</b>。現在の位置情報と過去の位置情報を含む可能性があります。</string>
     <string name="location_agps_access_summary">位置情報がオンの場合、<b>インターネットから衛星支援データをダウンロード</b>して GPS 始動時の性能を大幅に向上させます。</string>

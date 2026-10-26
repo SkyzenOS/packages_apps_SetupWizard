@@ -24,8 +24,6 @@
     <string name="date_time_summary">تعيين منطقتك الزمنية وضبط الوقت والتاريخ الحالي إذا لزم الأمر</string>
     <string name="setup_current_date">التاريخ الحالي</string>
     <string name="setup_current_time">الوقت الحالي</string>
-    <string name="intro_restore_title">استعادة التطبيقات والبيانات</string>
-    <string name="intro_restore_button">استعادة من نسخة احتياطية</string>
     <string name="setup_location">خدمات الموقع</string>
     <string name="location_access_summary"><b>يسمح للتطبيقات التي طلبت إذنك</b> باستخدام معلومات موقعك. وقد يشمل ذلك موقعك الحالي ومواقعك السابقة.</string>
     <string name="location_agps_access_summary">عندما يكون الموقع قيد التشغيل، <b>قم بتنزيل بيانات مساعدة الأقمار الصناعية من الإنترنت</b>، مما يمكن أن يحسن أداء بدء تشغيل GPS بشكل كبير.</string>

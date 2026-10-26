@@ -25,9 +25,6 @@
     <string name="date_time_summary">Nastavite časovni pas in prilagodite trenutni datum in čas, če je potrebno</string>
     <string name="setup_current_date">Trenutni datum</string>
     <string name="setup_current_time">Trenutni čas</string>
-    <string name="intro_restore_title">Obnovite aplikacije in podatke</string>
-    <string name="intro_restore_subtitle">Če imate Seedvault varnostno kopijo iz  <xliff:g id="name" example="SkyzenOS">%s</xliff:g> ali katerega koli drugega OS-a, jo lahko obnovite tukaj.</string>
-    <string name="intro_restore_button">Obnovi iz varnostne kopije</string>
     <string name="setup_location">Lokacijske storitve</string>
     <string name="location_access_summary"><b>Dovolite aplikacijam, ki so zahtevale vaše dovoljenje</b>, da uporabijo podatke o vaši lokaciji. To lahko vključuje vašo trenutno lokacijo in prejšnje.</string>
     <string name="location_agps_access_summary">Ko je lokacija vklopljena, <b>prenesi pomožne podatke satelita iz interneta</b>, kateri lahko močno izboljšajo zagonsko zmogljivost GPS-a</string>

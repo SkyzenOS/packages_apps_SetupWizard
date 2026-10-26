@@ -23,8 +23,6 @@
     <string name="date_time_summary">Suidhich an roinn-tìde agad agus cuir an ceann-là ’s an t-àm air gleus ma bhios feum air</string>
     <string name="setup_current_date">An ceann-là an-diugh</string>
     <string name="setup_current_time">An t-àm làithreach</string>
-    <string name="intro_restore_title">Aisig aplacaidean is dàta</string>
-    <string name="intro_restore_button">Aisig o lethbhreac-glèidhidh</string>
     <string name="setup_location">Seirbheisean ionaid</string>
     <string name="location_access_summary"><b>Leig le aplacaidean a dh’iarr cead uat</b> fiosrachadh mu d’ ionad a chleachdadh. Dh’fhaoidte gun gabh seo a-staigh an dà chuid d’ ionad làithreach agus far an robh thu roimhe.</string>
     <string name="update_recovery_title">Ùraich aiseag Lineage</string>
