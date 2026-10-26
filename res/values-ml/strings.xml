@@ -22,5 +22,4 @@
     <string name="setup_current_time">നിലവിലെ സമയം</string>
     <string name="setup_location">ലൊക്കേഷൻ സേവനങ്ങൾ</string>
     <string name="location_access_summary"><b>നിങ്ങളുടെ സ്ഥാനം വിവരങ്ങൾ ഉപയോഗിക്കാൻ നിങ്ങളുടെ അനുമതി ആവശ്യപ്പെടുന്ന</b> ആപ്ലിക്കേഷനുകളെ അനുവദിക്കുക. ഇതില്‍ നിങ്ങളുടെ നിലവിലെ സ്ഥാനവും മുമ്പത്തെ ലൊക്കേഷനുകളും ഉൾപ്പെട്ടേക്കാം.</string>
-    <string name="services_os_nav_keys_label">ഹാര്‍ഡ്‌വെയര്‍ കീകൾക്ക് പകരം സ്ക്രീൻ <b>നാവിഗേഷൻ കീകൾ ഉപയോഗിക്കുക.</b></string>
 </resources>

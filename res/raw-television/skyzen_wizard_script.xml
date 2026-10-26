@@ -33,18 +33,6 @@
     <WizardAction
         wizard:uri="intent:#Intent;action=org.skyzenos.setupwizard.DEVICE_SPECIFIC;end"
         id="device_specific">
-        <result wizard:action="recovery_update" />
-    </WizardAction>
-
-    <WizardAction
-        wizard:uri="intent:#Intent;action=org.skyzenos.setupwizard.RECOVERY_UPDATE;end"
-        id="recovery_update">
-        <result wizard:action="skyzen_settings" />
-    </WizardAction>
-
-    <WizardAction
-        wizard:uri="intent:#Intent;action=org.skyzenos.setupwizard.SETTINGS;end"
-        id="skyzen_settings">
         <result wizard:action="finish" />
     </WizardAction>
 

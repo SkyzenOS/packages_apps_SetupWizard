@@ -22,5 +22,4 @@
     <string name="setup_current_time">চলিত সময়</string>
     <string name="setup_location">স্থান সেৱাসমূহ</string>
     <string name="location_access_summary">আপোনাৰ অৱস্থান তথ্য ব্যৱহাৰ কৰিবলৈ <b>অনুমতি বিচৰা এপ্প্‌বোৰক অনুমতি দিয়ক</b>। ইয়াত আপোনাৰ চলিত আৰু অতীতৰ অৱস্থান অন্তৰ্ভুক্ত থাকিব পাৰে।</string>
-    <string name="services_os_nav_keys_label">হাৰ্ডৱেৰ কীবোৰৰ পৰিৱৰ্তে স্ক্ৰীণ <b>নেভিগেচন কীবোৰ ব্যৱহাৰ কৰক</b>।</string>
 </resources>

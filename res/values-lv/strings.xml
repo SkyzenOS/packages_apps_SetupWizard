@@ -21,5 +21,4 @@
     <string name="setup_current_time">Pašreizējais laiks</string>
     <string name="setup_location">Atrašanās vietas pakalpojumi</string>
     <string name="location_access_summary"><b>Atļaut lietotnēm kas ir lūgušas atļauju</b> izmantot Jūsu atrašanās vietu. Tas var ietvert Jūsu pašreizējo atrašanās vietu vai kādu no iepriekšējām.</string>
-    <string name="services_os_nav_keys_label"><b>Izmantot ekrānā redzamos navigācijas taustiņus</b> fizisko taustiņu vietā.</string>
 </resources>

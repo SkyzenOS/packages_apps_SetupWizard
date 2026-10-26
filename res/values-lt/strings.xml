@@ -21,5 +21,4 @@
     <string name="setup_current_time">Dabartinis laikas</string>
     <string name="setup_location">Vietovės paslaugos</string>
     <string name="location_access_summary"><b>Leisti programoms, kurios paprašė jūsų leidimo</b> naudoti jūsų vietos informaciją. Tai gali būti jūsų dabartinė buvimo vieta ir ankstesnės vietos.</string>
-    <string name="services_os_nav_keys_label"><b>Naudokite ekrane rodomus naršymo klavišus</b> vietoj aparatūrinių klavišų.</string>
 </resources>

@@ -20,5 +20,4 @@
     <string name="setup_current_time">當前時間</string>
     <string name="setup_location">定位服務</string>
     <string name="location_access_summary"><b>允許您許可的應用程式</b>使用您的定位資訊。可能包括您目前和過去的位置。</string>
-    <string name="services_os_nav_keys_label"><b>使用虛擬按鍵</b>而非實體按鍵。</string>
 </resources>

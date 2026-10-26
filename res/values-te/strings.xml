@@ -22,5 +22,4 @@
     <string name="setup_current_time">ప్రస్తుత సమయం</string>
     <string name="setup_location">స్థానం సేవలు</string>
     <string name="location_access_summary"><b>మీ యొక్క స్థాన సమాచారాన్ని ఉపయోగించుకునేందుకు</b> మీ అనుమతి కోసం అడిగిన అనువర్తనాలను అనుమతించుము. ఇది మీ యొక్క ప్రస్తుత స్థానం మరియు గత స్థానాలను కూడా కలిగి ఉండవచ్చు.</string>
-    <string name="services_os_nav_keys_label"><b>హార్డ్‌వేర్ కీలకు బదులుగా ఆన్ స్క్రీన్ నావిగేషన్ కీలను</b> ఉపయోగించుము.</string>
 </resources>

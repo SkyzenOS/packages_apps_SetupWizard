@@ -22,5 +22,4 @@
     <string name="setup_current_time">चालू वेळ</string>
     <string name="setup_location">स्‍थान सेवा</string>
     <string name="location_access_summary"><b>तुमची परवानगी विचारलेल्या अनुप्रयोगांना</b> तुमची स्थान माहिती वापरण्यास परवानगी द्या. यामध्ये तुमचे चालू स्थान आणि मागील स्थानांचा समावेश होऊ शकतो.</string>
-    <string name="services_os_nav_keys_label">हार्डवेअर कींच्या ऐवजी <b>स्क्रीन नॅविगेशन कींवर वापरा</b>.</string>
 </resources>

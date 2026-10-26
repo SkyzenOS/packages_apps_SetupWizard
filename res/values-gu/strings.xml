@@ -22,5 +22,4 @@
     <string name="setup_current_time">હાલનો સમય</string>
     <string name="setup_location">સ્થાન સેવાઓ</string>
     <string name="location_access_summary">તમારી લોકેશન માહિતી વાપરવાની <b>પરવાનગી માંગી હોય એવા ઍપ્સને છૂટ આપો</b>. આમાં તમારા હાલના લોકેશન અને ભૂતકાલીન લોકેશનોનો સમાવેશ થઈ શકે.</string>
-    <string name="services_os_nav_keys_label">હાર્ડવેર કીને બદલે <b>સ્ક્રીન નૅવિગેશન કીનો ઉપયોગ કરો</b>.</string>
 </resources>
