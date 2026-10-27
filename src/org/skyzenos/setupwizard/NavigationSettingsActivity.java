@@ -11,18 +11,13 @@ import static android.view.WindowManagerPolicyConstants.NAV_BAR_MODE_GESTURAL_OV
 
 import static org.skyzenos.setupwizard.SetupWizardApp.NAVIGATION_OPTION_KEY;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
 import android.os.SystemProperties;
-import android.os.UserHandle;
 import android.content.Context;
 import android.content.res.Resources;
 import android.view.View;
-import android.widget.CheckBox;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
-import android.provider.Settings;
 
 import com.airbnb.lottie.LottieAnimationView;
 
@@ -33,8 +28,6 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
     private SetupWizardApp mSetupWizardApp;
 
     private String mSelection = NAV_BAR_MODE_GESTURAL_OVERLAY;
-
-    private CheckBox mHideGesturalHint;
 
     public static boolean hasNavigationBar(Context context) {
         Resources resources = context.getResources();
@@ -81,7 +74,6 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
         final LottieAnimationView navigationIllustration =
                 findViewById(R.id.navigation_illustration);
         final RadioGroup radioGroup = findViewById(R.id.navigation_radio_group);
-        mHideGesturalHint = findViewById(R.id.hide_navigation_hint);
 
         radioGroup.setOnCheckedChangeListener((group, checkedId) -> {
             switch (checkedId) {
@@ -89,12 +81,10 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
                     mSelection = NAV_BAR_MODE_GESTURAL_OVERLAY;
                     navigationIllustration
                             .setAnimation(R.raw.lottie_system_nav_fully_gestural);
-                    revealHintCheckbox();
                     break;
                 case R.id.radio_sw_keys:
                     mSelection = NAV_BAR_MODE_3BUTTON_OVERLAY;
                     navigationIllustration.setAnimation(R.raw.lottie_system_nav_3_button);
-                    hideHintCheckBox();
                     break;
             }
 
@@ -102,45 +92,9 @@ public class NavigationSettingsActivity extends BaseSetupWizardActivity {
         });
     }
 
-    private void revealHintCheckbox() {
-        mHideGesturalHint.animate().cancel();
-
-        if (mHideGesturalHint.getVisibility() == View.VISIBLE) {
-            return;
-        }
-
-        mHideGesturalHint.setVisibility(View.VISIBLE);
-        mHideGesturalHint.setAlpha(0.0f);
-        mHideGesturalHint.animate()
-                .translationY(0)
-                .alpha(1.0f)
-                .setListener(null);
-    }
-
-    private void hideHintCheckBox() {
-        if (mHideGesturalHint.getVisibility() == View.INVISIBLE) {
-            return;
-        }
-
-        mHideGesturalHint.animate()
-                .translationY(-mHideGesturalHint.getHeight())
-                .alpha(0.0f)
-                .setListener(new AnimatorListenerAdapter() {
-                    @Override
-                    public void onAnimationEnd(Animator animation) {
-                        super.onAnimationEnd(animation);
-                        mHideGesturalHint.setVisibility(View.INVISIBLE);
-                    }
-                });
-    }
-
     @Override
     protected void onNextPressed() {
         mSetupWizardApp.getSettingsBundle().putString(NAVIGATION_OPTION_KEY, mSelection);
-        boolean hideHint = mHideGesturalHint.isChecked();
-        Settings.Secure.putIntForUser(getContentResolver(),
-                Settings.Secure.NAVIGATION_BAR_HINT, hideHint ? 0 : 1,
-                UserHandle.USER_CURRENT);
         super.onNextPressed();
     }
 
